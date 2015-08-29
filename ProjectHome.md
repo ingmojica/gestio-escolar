@@ -1,0 +1,1 @@
+Es tracta d'un sistema per gestionar centres educatius a través d'un entorn web. El sistema permet fer el seguiment de les matriculacions de l'alumnat, el professorat que imparteix cada assignatura, i les notes obtingudes, entre d'altres.
